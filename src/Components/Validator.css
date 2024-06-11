@@ -1,0 +1,23 @@
+.Card {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #000;
+}
+
+.card-main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.Card input {
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    
+
+}
